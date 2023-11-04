@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lect6PracGuitarSoloApp</string>
+    <string name="txtTitle">Solo Guitar Demos</string>
+    <string name="txtGuitar">Guitar Solo</string>
+</resources>
